@@ -1,3 +1,3 @@
-# To Start
+### Instructions
 
-### npm run dev
+`npm run dev`
