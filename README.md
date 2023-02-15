@@ -1,1 +1,3 @@
-# deck-of-cards
+# To Start
+
+### npm run dev
